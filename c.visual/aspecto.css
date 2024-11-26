@@ -1,0 +1,46 @@
+body{
+    margin-top: 250px;
+    margin-left: 500px;
+}
+.m_derecha{
+    float: left;
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    top:50%;
+    left: 50%;
+    padding-top: 50px;
+    margin-right: 100px;
+   /*background-position: left center;*/
+    width:150px;
+height:100px;
+border-radius:10px; /*esto crea un radio de borde de 10px para
+todos los lados */
+background-color:#006666;
+padding:10px;
+color:#FFFFFF;
+
+}
+.m_abajo{
+    float: left;
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 100px;
+    margin-top: 100px
+    ;
+   /*background-position: left center;*/
+    width:150px;
+height:100px;
+border-radius:10px; /*esto crea un radio de borde de 10px para
+todos los lados */
+background-color:#006666;
+padding:5px;
+color:#FFFFFF;
+
+}
+.separacion {
+    clear: both;
+    margin-top: 100px;
+}
+
